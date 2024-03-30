@@ -13,7 +13,7 @@
 </p>
 
 ## Usage
-[See the documentaion](../docs/GUIDE.md) for instructions on how to use it.
+[See the documentaion](../main/docs/GUIDE.md) for instructions on how to use it.
 
 ## Build
 ### Requirements
