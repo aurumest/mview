@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
@@ -25,7 +25,7 @@
     <PackageReference Include="Dirkster.HL" Version="1.0.4" />
     <PackageReference Include="MaterialDesignColors" Version="2.1.1" />
     <PackageReference Include="MaterialDesignThemes" Version="4.7.1" />
-    <PackageReference Include="NAudio" Version="2.1.0" />
+    <PackageReference Include="NAudio" Version="2.2.1" />
     <PackageReference Include="NAudio.Vorbis" Version="1.5.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Ookii.Dialogs.Wpf" Version="5.0.1" />
